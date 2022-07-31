@@ -9,3 +9,11 @@ Included in this repository are the [source files of the current app](app_final/
 There were three main components to the process of building the app:
 
 ### Exploration/Experimentation
+
+#### [Scripts](build_history/scripts/)
+
+#### [Functions Etc](build_history/functions_etc/)
+
+#### [App Build](build_history/app_build/)
+
+#### [Win Probability](build_history/win_probability/)
