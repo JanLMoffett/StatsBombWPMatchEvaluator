@@ -12,8 +12,12 @@ There were three main components to the process of building the app:
 
 #### [Scripts](build_history/scripts/)
 
+### App Development
+
 #### [Functions Etc](build_history/functions_etc/)
 
 #### [App Build](build_history/app_build/)
+
+### Win Probability Model
 
 #### [Win Probability](build_history/win_probability/)
