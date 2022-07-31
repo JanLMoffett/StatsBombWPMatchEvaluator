@@ -4,7 +4,7 @@ The StatsBomb Win Probability Match Evaluator is a Shiny app built with R that g
 
 ## [Link to the app on shinyapps.io!](https://janlmoffett.shinyapps.io/StatsBomb_WP_Match_Evaluator/)
 
-Included in this repository are the [source files of the current app]() as well as the [source files from the history of the build.]()
+Included in this repository are the [source files of the current app](app_final/) as well as the [source files from the history of the build](build_history/).
 
 There were three main components to the process of building the app:
 
