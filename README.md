@@ -10,14 +10,15 @@ There were three main components to the process of building the app:
 
 ### Exploration/Experimentation
 
-#### [Scripts](build_history/scripts/)
+__[Scripts](build_history/scripts/)__ contains code in which I got familiar with the StatsBomb UEFA 2020 dataset that we were provided for the Hackathon and explored ideas for what sort of data science project I wanted to create.
 
 ### App Development
 
-#### [Functions Etc](build_history/functions_etc/)
+__[Functions Etc](build_history/functions_etc/)__ contains the first versions of the functions and other pieces of reusable code that would become part of the app.
 
-#### [App Build](build_history/app_build/)
+__[App Build](build_history/app_build/)__ contains every iteration of the shiny app source code and functions.
 
 ### Win Probability Model
 
-#### [Win Probability](build_history/win_probability/)
+__[Win Probability](build_history/win_probability/)__ contains the scripts in which I created the Win Probability model that powers the predictions in the app.
+
