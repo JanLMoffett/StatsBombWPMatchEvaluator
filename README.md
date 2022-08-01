@@ -32,5 +32,5 @@ __[App Build](build_history/app_build/)__ contains every iteration of the shiny 
 
 ### Win Probability Model
 
-__[Win Probability](build_history/win_probability/)__ contains the scripts in which I created the Win Probability model that powers the predictions in the app.
+__[Win Probability](build_history/win_probability/)__ contains the scripts in which I created the Win Probability model that powers the predictions in the app.  Inspiration for the model came from [this post from American Soccer Analysis](https://www.americansocceranalysis.com/home/2021/7/16/we-have-a-new-win-probability-model) and [this article by Pieter Robberechts, Jan Van Haaren, and Jesse Davis](https://people.cs.kuleuven.be/~pieter.robberechts/repo/robberechts-mlsa19-iwp.pdf).
 
