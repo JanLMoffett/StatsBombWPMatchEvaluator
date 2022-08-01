@@ -10,7 +10,11 @@ Included in this repository are the [source files of the current app](app_final/
 
 ## Current App
 
-[App.R](app_final/app.R)
+[App.R](app_final/app.R) - Shiny app source code.
+
+[Functions and Constants - Time](app_final/app_functions/functions_and_constants_time2.R) - Reusable code to handle time-related tasks in the app.
+
+[Functions and Constants - Visual](app_final/app_functions/functions_and_constants_visual2.R) - Reusable code to handle visualization-related tasks in the app.
 
 ## Build History
 
